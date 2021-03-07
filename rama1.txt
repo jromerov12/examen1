@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 añadimos texto a rama 1 master
+=======
+añadimos lines a rama  rama 1
+>>>>>>> jesusromero
